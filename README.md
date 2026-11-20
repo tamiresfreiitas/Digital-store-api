@@ -20,7 +20,7 @@ API REST de uma loja virtual, com cadastro de usuários, categorias e produtos, 
 ## Instalação
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/tamiresfreiitas/Digital-store-api.git
 cd backend
 npm install
 cp .env.example .env

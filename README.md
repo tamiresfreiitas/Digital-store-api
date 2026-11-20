@@ -204,3 +204,12 @@ backend/
 - `PUT /v1/product/:id` é parcial: apenas os campos enviados são alterados.
 - Em `options`, o campo `radius` aceita número ou texto como `"4px"`, e `values` também pode ser enviado como `value`.
 - Qualquer usuário autenticado pode alterar ou remover qualquer recurso, pois não há perfis de acesso.
+
+<a name="autora"></a>
+## 👩🏻‍💻 Autora
+
+**Tamires Freitas**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tamiresfreiitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiresfreiitass)
+

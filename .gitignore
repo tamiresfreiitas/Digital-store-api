@@ -1,0 +1,25 @@
+# dependências
+node_modules/
+
+# variáveis de ambiente (nunca subir)
+.env
+.env.*
+!.env.example
+
+# imagens enviadas pela API e geradas nos testes
+media/
+media-test/
+
+# logs
+*.log
+
+# testes
+coverage/
+
+# editores
+.vscode/
+.idea/
+
+# sistema operacional
+.DS_Store
+Thumbs.db

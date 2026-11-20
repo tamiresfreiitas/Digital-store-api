@@ -1,0 +1,8 @@
+// Configuração do sequelize-cli (migrations).
+// Uso: npm run db:migrate | npm run db:migrate:undo | npm run db:reset
+const path = require('path');
+
+module.exports = {
+  config: path.resolve(__dirname, 'src/config/sequelize-cli.js'),
+  'migrations-path': path.resolve(__dirname, 'migrations'),
+};
